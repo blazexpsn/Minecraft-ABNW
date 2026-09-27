@@ -1,7 +1,24 @@
 {
     "formatVersion": 1,
-    "latest": "1.0.9.25",
+    "latest": "1.0.9.26",
     "versions": [
+        {
+            "id": "1.0.9.26",
+            "name": "ABNW 1.0.9.26",
+            "minecraft": "26.1.2",
+            "releaseTime": "2026-09-27T20:59:36Z",
+            "manifest": {
+                "url": "https://github.com/blazexpsn/Minecraft-ABNW/releases/download/abnw-1.0.9.26-mc26.1.2/abnw-1.0.9.26-mc26.1.2.json",
+                "sha256": "63c7bb27eebbb6ece180ce6c7990ce213079d2fb20d1e756497d6420b93bb0f2"
+            },
+            "delta": {
+                "url": "https://github.com/blazexpsn/Minecraft-ABNW/releases/download/abnw-1.0.9.26-mc26.1.2/abnw-1.0.9.26-mc26.1.2.xdelta"
+            },
+            "libraries": {
+                "url": "https://github.com/blazexpsn/Minecraft-ABNW/releases/download/abnw-1.0.9.26-mc26.1.2/org.teamzetaverse.abnw.libraries.json",
+                "sha256": "3a667b6501d99838d95cb23ffca8677661da63e9a6ff2031a6eca2debcdf9359"
+            }
+        },
         {
             "id": "1.0.9.25",
             "name": "ABNW 1.0.9.25",
